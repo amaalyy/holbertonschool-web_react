@@ -1,0 +1,42 @@
+.App-logo {
+	height: 30vmin;
+  }
+  
+  .App-header {
+	display: inline-flex;
+	align-items: center;
+	font-size: 20px;
+	font-family: sans-serif;
+	color: red;
+  }
+  
+  .App-body {
+	border-top: solid;
+	border-bottom: solid;
+	border-color: #e0454b;
+	min-height: 50vmax;
+	padding: 30px;
+	font-weight: bold;
+  }
+  .App-footer {
+	display: flex;
+	justify-content: center;
+	font-style: italic;
+	font-family: "Times New Roman", Times, serif;
+	font-weight: bold;
+  }
+  label {
+	width:180px;
+	clear:left;
+	text-align:right;
+	padding-right:10px;
+   
+  }
+  input{
+	padding-left:10px;
+	margin-right: 20px;
+  }
+  .App-body button{
+	padding-left:10px;
+	padding-right:10px;
+  }
